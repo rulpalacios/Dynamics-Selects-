@@ -19,6 +19,6 @@
 
          $ php artisan migrate
 
-+ Listo ya podemos ejecutar el proyecto Cinema.
++ Listo ya podemos ejecutar el proyecto.
 
         $ php artisan serve
